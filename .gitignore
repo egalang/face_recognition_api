@@ -205,3 +205,11 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+data/student_face_api.db
+data/student_face_api.db
+data/student_face_api.db
+data/faces/380c6ab4909d40b0a199cb899203a3f4.jpg
+data/recognition/cf695d9e8ab34619a19a3993d1f56221.jpg
+data/recognition/d2e31d0229184fb58737632ebeed7d64.jpg
+data/recognition/f6dd2d0d3c5e42b7b0355d27a4666f12.jpg
+data/student_face_api.db

@@ -1,5 +1,6 @@
 from fastapi import APIRouter, Depends, File, Form, UploadFile
 from sqlalchemy.orm import Session
+import hashlib
 
 from app.db.database import get_db
 from app.schemas.common import AttendanceAction
