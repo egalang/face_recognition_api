@@ -205,6 +205,4 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
-data/student_face_api.db
-data/faces/
-data/recognition/
+data/
